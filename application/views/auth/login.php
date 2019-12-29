@@ -44,7 +44,7 @@
             <div class="login-box card">
                 <div class="card-body">
                     <form class="form-horizontal form-material" method="POST" id="loginform" action="<?php echo base_url('auth/login'); ?>">
-                        <h3 class="box-title m-b-20">Sign In</h3>
+                        <h3 class="box-title m-b-20">Sign In 2</h3>
                         <div class="form-group ">
                             <div class="col-xs-12">
 								<?php echo form_input($identity);?>
