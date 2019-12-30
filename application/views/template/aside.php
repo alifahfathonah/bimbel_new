@@ -21,14 +21,10 @@
 					</ul>
 				</li>
 				<li>
-					<a class="has-arrow waves-effect waves-dark" href="javascript:void(0)" aria-expanded="false">
+					<a class="waves-effect waves-dark" href="<?php echo base_url('program'); ?>" aria-expanded="false">
 						<i class="fa fa-database"></i>
-						<span class="hide-menu"> Data2 <span class="badge badge-pill badge-cyan ml-auto">4</span></span>
+						<span class="hide-menu"> Program </span>
 					</a>
-					<ul aria-expanded="false" class="collapse">
-						<li><a href="<?php echo base_url('auth'); ?>"> Users </a></li>
-						<li><a href="<?php echo base_url('auth'); ?>"> Group Akses </a></li>
-					</ul>
 				</li>
 			</ul>
 		</nav>
